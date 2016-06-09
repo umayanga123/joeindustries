@@ -10,7 +10,7 @@
   <description>TestEnv</description>
   <modules>
     <module>TestResources</module>
-    <module>TestResourcesCAR</module>
+    <module>TestEnvCAR</module>
   </modules>
   <build>
     <plugins>

@@ -11,7 +11,7 @@
   <modules>
     <module>ESBConfig</module>
     <module>DevResources</module>
-    <module>IntegrationsCAR</module>
+    <module>DevEnvCAR</module>
   </modules>
   <build>
     <plugins>
